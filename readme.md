@@ -9,6 +9,6 @@ LINK - https://dynamic-dictionary-api.netlify.app/
 
 
 ## Requirement (API)
-```bash
+```bash 
   https://api.dictionaryapi.dev/api/v2/entries/en/
 ```
